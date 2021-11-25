@@ -33,7 +33,7 @@ Supplementary folder contains Results15 folder, Function15.R, Function16.R, Sect
 
 * Function16.R contains functions used in Section16.R file.
 
-* RESULT16.csv contains the results of the simulation analysis in Section A.6 of the paper where variables are named as [A]_[B]_[C]. Here [A] takes B, S, and C and indicates bias, standard error, and whether 95% Wald-type confidence interval covers the true parameter, respectively. [B] takes True, MisOR, MisPS, MisBoth, Over, and Under which show the model specification in Table 1 of the paper. [C] takes DE and IE which show the target parameter ![DE](https://latex.codecogs.com/svg.image?\tau^{\rm&space;DE}(\alpha) "\tau^{\rm DE}(\alpha)") and ![IE](https://latex.codecogs.com/svg.image?\tau^{\rm&space;IE}(\alpha,\alpha') "\tau^{\rm IE}(\alpha,\alpha')"), respectively.
+* RESULT16.csv contains the results of the simulation analysis in Section A.6 of the paper where variables are named as [A]\_[B]\_[C]. Here [A] takes B, S, and C and indicates bias, standard error, and whether 95% Wald-type confidence interval covers the true parameter, respectively. [B] takes True, MisOR, MisPS, MisBoth, Over, and Under which show the model specification in Table 1 of the paper. [C] takes DE and IE which show the target parameter ![DE](https://latex.codecogs.com/svg.image?\tau^{\rm&space;DE}(\alpha) "\tau^{\rm DE}(\alpha)") and ![IE](https://latex.codecogs.com/svg.image?\tau^{\rm&space;IE}(\alpha,\alpha') "\tau^{\rm IE}(\alpha,\alpha')"), respectively.
 
 ## References
 Chan Park & Hyunseung Kang (2020) **Efficient Semiparametric Estimation of Network Treatment Effects Under Partial Interference**, _arXiv:2004.08950_ [[link](https://arxiv.org/abs/2004.08950 "EffNet")]
