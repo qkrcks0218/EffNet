@@ -27,13 +27,13 @@ Supplementary folder contains Results15 folder, Function15.R, Function16.R, Sect
 
 * Function15.R contains functions used in Section15.R file.
 
-* Results15 folder contains csv files titled as RESULT_pA###_al###.csv. Here pA### represents the probability ![p_A^*](https://latex.codecogs.com/svg.image?p_A^* "p_A^*") (0.3,0.5,0.7) and al### represents 
+* Results15 folder contains csv files titled as RESULT_pA###_al###.csv. Here pA### represents the probability ![p_A^*](https://latex.codecogs.com/svg.image?p_A^* "p_A^*") taking ![p_A^*=0.3](https://latex.codecogs.com/svg.image?p_A^*=0.3 "p_A^*=0.3"),  ![p_A^*=0.5](https://latex.codecogs.com/svg.image?p_A^*=0.5 "p_A^*=0.5") , and  ![p_A^*=0.7](https://latex.codecogs.com/svg.image?p_A^*=0.7 "p_A^*=0.7"), and al### represents the counterfactual parameter ![\alpha](https://latex.codecogs.com/svg.image?\alpha "\alpha") ranging from ![\alpha=0.01](https://latex.codecogs.com/svg.image?\alpha=0.01 "\alpha=0.01") to ![\alpha=0.99](https://latex.codecogs.com/svg.image?\alpha=0.99 "\alpha=0.99"); see Section A.5 of the paper. 
 
 * Section16.R replicates the simulation analysis in Section A.6 of the paper.
 
 * Function16.R contains functions used in Section16.R file.
 
-
+* RESULT16.csv
 
 
 ## References
