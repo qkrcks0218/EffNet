@@ -656,7 +656,7 @@ colnames(Result) <- c("B_True_DE","B_MisOR_DE","B_MisPS_DE","B_MisBoth_DE","B_Ov
                       "C_True_DE","C_MisOR_DE","C_MisPS_DE","C_MisBoth_DE","C_Over_DE","C_Under_DE",
                       "C_True_IE","C_MisOR_IE","C_MisPS_IE","C_MisBoth_IE","C_Over_IE","C_Under_IE")
 
-write.csv(Result,"Results/RESULT16.csv",row.names=FALSE)                                   # Save Result
+write.csv(Result,"RESULT16.csv",row.names=FALSE)                                   # Save Result
 
 
 
@@ -664,7 +664,7 @@ write.csv(Result,"Results/RESULT16.csv",row.names=FALSE)                        
 # Report the Result
 ############################
 
-Result <- read.csv("Results/RESULT16.csv")                                         # Load the Provided Datasets
+Result <- read.csv("RESULT16.csv")                                         # Load the Provided Datasets
 
 position <- c(1,3,7,9,11,10)
 
